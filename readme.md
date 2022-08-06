@@ -442,7 +442,7 @@ However, if you are using this project and are happy with it or just want to enc
 - [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
-
+[![SKITTLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=SKITTLE6969)](https://github.com/SKITTLE6969/github-readme-stats)
 ---
 
 [![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
